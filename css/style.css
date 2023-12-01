@@ -65,18 +65,30 @@ body {
 .reaction{
     border-radius: 25px;
     background-color: #FFF6F5;
+    display: inline-block;
+    width: 300px;
+    height: 50px;
 }
 .verbal{
     border-radius: 25px;
     background-color: #F2FBFA;
+    display: inline-block;
+    width: 300px;
+    height: 50px;
 }
 .visual{
     border-radius: 25px;
     background-color: #F3F3FD;
+    display: inline-block;
+    width: 300px;
+    height: 50px;
 }
 .memory{
-    border-radius: 25px;
+    border-radius: 10px;
     background-color: #FFFBF2;
+    display: inline-block;
+    width: 300px;
+    height: 50px;
 }
 .h1results {
     color: #CBC6FE;
