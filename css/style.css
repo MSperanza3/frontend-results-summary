@@ -61,27 +61,34 @@ body {
 }
 .summary {
     width: 450px;
+
 }
 .reaction{
-    border-radius: 25px;
+    border-radius: 10px;
     background-color: #FFF6F5;
     display: inline-block;
     width: 300px;
     height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .verbal{
-    border-radius: 25px;
+    border-radius: 10px;
     background-color: #F2FBFA;
     display: inline-block;
     width: 300px;
     height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .visual{
-    border-radius: 25px;
+    border-radius: 10px;
     background-color: #F3F3FD;
     display: inline-block;
     width: 300px;
     height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .memory{
     border-radius: 10px;
@@ -89,8 +96,20 @@ body {
     display: inline-block;
     width: 300px;
     height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .h1results {
     color: #CBC6FE;
     margin-top: 30px;
+}
+.continue {
+    border-radius: 25px;
+    background-color: #4B36F3;
+    display: inline-block;
+    width: 300px;
+    height: 43px;
+    margin-top: 33px;
+    text-align: center;
+    margin-bottom: 10px;
 }
